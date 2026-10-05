@@ -1,0 +1,639 @@
+%PDF-1.4
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 5 0
+1 0 obj
+<<
+  /PageMode /UseNone
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 6 0
+2 0 obj
+<<
+  /Author (\(anonymous\))
+  /CreationDate (D:20260929140411+00'00')
+  /Creator (\(unspecified\))
+  /Keywords ()
+  /ModDate (D:20260929140411+00'00')
+  /Producer (ReportLab PDF Library - \(opensource\))
+  /Subject (\(unspecified\))
+  /Title (\(anonymous\))
+  /Trapped /False
+>>
+endobj
+
+%% Original object ID: 7 0
+3 0 obj
+<<
+  /Count 1
+  /Kids [
+    4 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 4 0
+4 0 obj
+<<
+  /Contents 5 0 R
+  /MediaBox [
+    0
+    0
+    595.2756
+    841.8898
+  ]
+  /Parent 3 0 R
+  /Resources <<
+    /Font 7 0 R
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+  >>
+  /Rotate 0
+  /Trans <<
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 8 0
+5 0 obj
+<<
+  /Length 6 0 R
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 752.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 18 Tf 22 TL 27.59211 0 Td (REQUIREMENT ANALYSIS PHASE \226 TECHNOLOGY) Tj T* 190.53 0 Td (STACK) Tj T* -218.1221 0 Td ET
+Q
+Q
+q
+1 0 0 1 68.0315 676.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 66 90.70866 -66 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm (DATE) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 52 Tm (04/10/2026) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 30 Tm (TEAM ID) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 30 Tm (SWTID-2026-8904) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 8 Tm (PROJECT NAME) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 8 Tm (AI Study Buddy) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 66 m 459.2126 66 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 66 l S
+n 459.2126 0 m 459.2126 66 l S
+n 0 44 m 459.2126 44 l S
+n 0 22 m 459.2126 22 l S
+n 90.70866 0 m 90.70866 66 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 670.2047 cm
+Q
+q
+1 0 0 1 48.51969 652.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (MAXIMUM MARKS: 4 Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 642.2047 cm
+Q
+q
+1 0 0 1 48.51969 617.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (Technical Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 585.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (The architecture uses a web interface, Node.js/Express backend, MongoDB database and Google Gemini AI service.) Tj T* (The application can run locally during development and can later be deployed to cloud services.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 560.2047 cm
+q
+BT 1 0 0 1 0 3 Tm 17 TL /F2 14 Tf 0 0 0 rg (Table 1: Components & Technologies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.52756 418.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 136 476.2205 -18 re f*
+0 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 4 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (No.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Component) Tj T* ET
+Q
+Q
+q
+1 0 0 1 134.3937 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 346.9921 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Technology) Tj T* ET
+Q
+Q
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (User Interface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 134.3937 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Registration, login, study dashboard, notes, quiz and AI) Tj T* (chat.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 346.9921 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (HTML, CSS, JavaScript / React if) Tj T* (used) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Application Logic-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 134.3937 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (User registration, login and authentication.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 346.9921 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Node.js, Express.js, JWT, bcryptjs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Application Logic-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 134.3937 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Create, view, update and search study materials.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 346.9921 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Node.js, Express.js) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Application Logic-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 134.3937 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Generate explanations, summaries and quizzes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 346.9921 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Google Gemini API) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 134.3937 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Store user profiles, notes, quizzes and progress.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 346.9921 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (MongoDB, Mongoose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Cloud Database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 134.3937 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Optional online database deployment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 346.9921 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (MongoDB Atlas) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 136 m 476.2205 136 l S
+n 0 0 m 476.2205 0 l S
+n 0 0 m 0 136 l S
+n 476.2205 0 m 476.2205 136 l S
+n 0 118 m 476.2205 118 l S
+n 0 90 m 476.2205 90 l S
+n 0 72 m 476.2205 72 l S
+n 0 54 m 476.2205 54 l S
+n 0 36 m 476.2205 36 l S
+n 0 18 m 476.2205 18 l S
+n 34.01575 0 m 34.01575 136 l S
+n 130.3937 0 m 130.3937 136 l S
+n 342.9921 0 m 342.9921 136 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 410.2047 cm
+Q
+q
+1 0 0 1 48.51969 385.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (Table 2: Application Characteristics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.52756 231.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 148 476.2205 -18 re f*
+0 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 4 134 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (No.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 134 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Characteristic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 134 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 355.4961 134 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Technology) Tj T* ET
+Q
+Q
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Open Source) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Uses open-source backend and database technologies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 355.4961 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Node.js, Express.js, MongoDB) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Password hashing, JWT authentication and protected) Tj T* (routes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 355.4961 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (bcryptjs, JWT, HTTPS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 70 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 70 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Scalability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Modular REST API supports more users and study) Tj T* (content.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 355.4961 70 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Node.js, MongoDB) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Availability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Students can access study tools when the application) Tj T* (services are available.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 355.4961 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Node.js server / Cloud hosting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.01575 14 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Performance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 140.063 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Database indexing and efficient API calls support quick) Tj T* (retrieval and AI requests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 355.4961 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (MongoDB, Mongoose, Gemini) Tj T* (API) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 148 m 476.2205 148 l S
+n 0 0 m 476.2205 0 l S
+n 0 0 m 0 148 l S
+n 476.2205 0 m 476.2205 148 l S
+n 0 130 m 476.2205 130 l S
+n 0 112 m 476.2205 112 l S
+n 0 84 m 476.2205 84 l S
+n 0 56 m 476.2205 56 l S
+n 0 28 m 476.2205 28 l S
+n 34.01575 0 m 34.01575 148 l S
+n 136.063 0 m 136.063 148 l S
+n 351.4961 0 m 351.4961 148 l S
+Q
+Q
+Q
+ 
+endstream
+endobj
+
+6 0 obj
+8311
+endobj
+
+%% Original object ID: 1 0
+7 0 obj
+<<
+  /F1 8 0 R
+  /F2 9 0 R
+>>
+endobj
+
+%% Original object ID: 2 0
+8 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Name /F1
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 3 0
+9 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Name /F2
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 10
+0000000000 65535 f 
+0000000052 00000 n 
+0000000154 00000 n 
+0000000477 00000 n 
+0000000586 00000 n 
+0000000914 00000 n 
+0000009280 00000 n 
+0000009328 00000 n 
+0000009401 00000 n 
+0000009546 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 10
+  /ID [<08303850b654a7d806544a1ee09bfa9e><b3ab97372d4a7fbb08617130d340cf16>]
+>>
+startxref
+9669
+%%EOF

@@ -1,0 +1,653 @@
+%PDF-1.4
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 7 0
+1 0 obj
+<<
+  /PageMode /UseNone
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 8 0
+2 0 obj
+<<
+  /Author (\(anonymous\))
+  /CreationDate (D:20260929140411+00'00')
+  /Creator (\(unspecified\))
+  /Keywords ()
+  /ModDate (D:20260929140411+00'00')
+  /Producer (ReportLab PDF Library - \(opensource\))
+  /Subject (\(unspecified\))
+  /Title (\(anonymous\))
+  /Trapped /False
+>>
+endobj
+
+%% Original object ID: 9 0
+3 0 obj
+<<
+  /Count 1
+  /Kids [
+    4 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 6 0
+4 0 obj
+<<
+  /Contents 5 0 R
+  /MediaBox [
+    0
+    0
+    595.2756
+    841.8898
+  ]
+  /Parent 3 0 R
+  /Resources <<
+    /Font 7 0 R
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+  >>
+  /Rotate 0
+  /Trans <<
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 10 0
+5 0 obj
+<<
+  /Length 6 0 R
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 752.2047 cm
+q
+BT 1 0 0 1 0 26 Tm 10.09611 0 Td 22 TL /F2 18 Tf 0 0 0 rg (PROJECT DESIGN PHASE II \226 DATA FLOW DIAGRAM &) Tj T* 172.008 0 Td (USER STORIES) Tj T* -182.1041 0 Td ET
+Q
+Q
+q
+1 0 0 1 68.0315 676.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 66 90.70866 -66 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm (DATE) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 52 Tm (04/10/2026) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 30 Tm (TEAM ID) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 30 Tm (SWTID-2026-8904) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 8 Tm (PROJECT NAME) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 8 Tm (AI Study Buddy) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 66 m 459.2126 66 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 66 l S
+n 459.2126 0 m 459.2126 66 l S
+n 0 44 m 459.2126 44 l S
+n 0 22 m 459.2126 22 l S
+n 90.70866 0 m 90.70866 66 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 670.2047 cm
+Q
+q
+1 0 0 1 48.51969 652.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (MAXIMUM MARKS: 4 Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 642.2047 cm
+Q
+q
+1 0 0 1 48.51969 617.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (Data Flow Diagram) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 598.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (The DFD shows how student data moves between the user interface, backend, database and AI service.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96.37795 539.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 54 402.5197 -18 re f*
+0 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 4 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL ([STUDENT]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 94.70866 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL /F3 8 Tf 10 TL <ae> Tj /F1 8 Tf 10 TL T* ET
+Q
+Q
+q
+1 0 0 1 123.0551 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL ([WEB / STUDY DASHBOARD]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 250.6142 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL /F3 8 Tf 10 TL <ae> Tj /F1 8 Tf 10 TL T* ET
+Q
+Q
+q
+1 0 0 1 278.9606 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL ([NODE.JS + EXPRESS API]) Tj T* ET
+Q
+Q
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 32 cm
+Q
+q
+1 0 0 1 94.70866 32 cm
+Q
+q
+1 0 0 1 123.0551 32 cm
+Q
+q
+1 0 0 1 250.6142 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL /F4 8 Tf 10 TL (n) Tj /F1 8 Tf 10 TL T* ET
+Q
+Q
+q
+1 0 0 1 278.9606 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL /F4 8 Tf 10 TL (n) Tj /F1 8 Tf 10 TL T* ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+Q
+q
+1 0 0 1 94.70866 14 cm
+Q
+q
+1 0 0 1 123.0551 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL ([MONGODB]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 250.6142 14 cm
+Q
+q
+1 0 0 1 278.9606 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL ([GOOGLE GEMINI AI]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 54 m 402.5197 54 l S
+n 0 0 m 402.5197 0 l S
+n 0 0 m 0 54 l S
+n 402.5197 0 m 402.5197 54 l S
+n 0 36 m 402.5197 36 l S
+n 0 18 m 402.5197 18 l S
+n 90.70866 0 m 90.70866 54 l S
+n 119.0551 0 m 119.0551 54 l S
+n 246.6142 0 m 246.6142 54 l S
+n 274.9606 0 m 274.9606 54 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 529.2047 cm
+Q
+q
+1 0 0 1 48.51969 504.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (User Stories) Tj T* ET
+Q
+Q
+q
+1 0 0 1 32.59843 304.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 194 530.0787 -18 re f*
+0 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 4 180 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Functional Requirement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 103.2126 180 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 180 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (User Story / Task) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.4803 180 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Acceptance Criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 180 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Priority) Tj T* ET
+Q
+Q
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 162 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Registration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 103.2126 162 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 152 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As a student, I can register with name, email) Tj T* (and password.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.4803 162 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (User details are saved in MongoDB.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 162 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 134 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Login) Tj T* ET
+Q
+Q
+q
+1 0 0 1 103.2126 134 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 134 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (As a student, I can log in securely.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.4803 134 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Valid credentials allow login.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 134 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 103.2126 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 106 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As a student, I can access my study dashboard) Tj T* (after login.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.4803 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Dashboard loads after authentication.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (AI Explanation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 103.2126 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As a student, I can ask a question and receive) Tj T* (an AI explanation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.4803 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Gemini generates and displays an) Tj T* (answer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Quiz) Tj T* ET
+Q
+Q
+q
+1 0 0 1 103.2126 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (As a student, I can generate and attempt a quiz.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.4803 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Quiz questions and score are displayed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 103.2126 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As a student, I can create and search study) Tj T* (notes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.4803 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Notes are stored and retrieved correctly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Progress) Tj T* ET
+Q
+Q
+q
+1 0 0 1 103.2126 14 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As a student, I can view study history and) Tj T* (progress.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.4803 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Progress data is displayed from) Tj T* (MongoDB.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 14 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 194 m 530.0787 194 l S
+n 0 0 m 530.0787 0 l S
+n 0 0 m 0 194 l S
+n 530.0787 0 m 530.0787 194 l S
+n 0 176 m 530.0787 176 l S
+n 0 148 m 530.0787 148 l S
+n 0 130 m 530.0787 130 l S
+n 0 102 m 530.0787 102 l S
+n 0 74 m 530.0787 74 l S
+n 0 56 m 530.0787 56 l S
+n 0 28 m 530.0787 28 l S
+n 99.2126 0 m 99.2126 194 l S
+n 138.8976 0 m 138.8976 194 l S
+n 317.4803 0 m 317.4803 194 l S
+n 473.3858 0 m 473.3858 194 l S
+Q
+Q
+Q
+ 
+endstream
+endobj
+
+6 0 obj
+7923
+endobj
+
+%% Original object ID: 1 0
+7 0 obj
+<<
+  /F1 8 0 R
+  /F2 9 0 R
+  /F3 10 0 R
+  /F4 11 0 R
+>>
+endobj
+
+%% Original object ID: 2 0
+8 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Name /F1
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 3 0
+9 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Name /F2
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 4 0
+10 0 obj
+<<
+  /BaseFont /Symbol
+  /Name /F3
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 5 0
+11 0 obj
+<<
+  /BaseFont /ZapfDingbats
+  /Name /F4
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 12
+0000000000 65535 f 
+0000000052 00000 n 
+0000000154 00000 n 
+0000000477 00000 n 
+0000000586 00000 n 
+0000000915 00000 n 
+0000008893 00000 n 
+0000008941 00000 n 
+0000009040 00000 n 
+0000009185 00000 n 
+0000009335 00000 n 
+0000009449 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 12
+  /ID [<548d3bc95335f1ba41edd8d560bef950><15c8c3010a1db9b9ce82f65e05d7310a>]
+>>
+startxref
+9542
+%%EOF

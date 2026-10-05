@@ -1,0 +1,370 @@
+%PDF-1.4
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 5 0
+1 0 obj
+<<
+  /PageMode /UseNone
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 6 0
+2 0 obj
+<<
+  /Author (\(anonymous\))
+  /CreationDate (D:20260929140411+00'00')
+  /Creator (\(unspecified\))
+  /Keywords ()
+  /ModDate (D:20260929140411+00'00')
+  /Producer (ReportLab PDF Library - \(opensource\))
+  /Subject (\(unspecified\))
+  /Title (\(anonymous\))
+  /Trapped /False
+>>
+endobj
+
+%% Original object ID: 7 0
+3 0 obj
+<<
+  /Count 1
+  /Kids [
+    4 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 4 0
+4 0 obj
+<<
+  /Contents 5 0 R
+  /MediaBox [
+    0
+    0
+    595.2756
+    841.8898
+  ]
+  /Parent 3 0 R
+  /Resources <<
+    /Font 7 0 R
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+  >>
+  /Rotate 0
+  /Trans <<
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 8 0
+5 0 obj
+<<
+  /Length 6 0 R
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 774.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 26.07111 0 Td (PROJECT DESIGN PHASE \226 PROPOSED SOLUTION) Tj T* -26.07111 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 746.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 160.9911 0 Td (Proposed Solution Template) Tj T* -160.9911 0 Td ET
+Q
+Q
+q
+1 0 0 1 68.0315 672.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 66 90.70866 -66 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm (DATE) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 52 Tm (04/10/2026) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 30 Tm (TEAM ID) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 30 Tm (SWTID-2026-8904) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 8 Tm (PROJECT NAME) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 8 Tm (AI Study Buddy) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 66 m 459.2126 66 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 66 l S
+n 459.2126 0 m 459.2126 66 l S
+n 0 44 m 459.2126 44 l S
+n 0 22 m 459.2126 22 l S
+n 90.70866 0 m 90.70866 66 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 666.2047 cm
+Q
+q
+1 0 0 1 48.51969 648.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (MAXIMUM MARKS: 2 Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 638.2047 cm
+Q
+q
+1 0 0 1 63.77953 442.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 196 467.7165 -18 re f*
+0 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 4 182 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (No.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 182 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Parameter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 182.5827 182 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Description) Tj T* ET
+Q
+Q
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 164 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 164 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 182.5827 154 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Students often struggle to understand difficult topics, organize study materials,) Tj T* (create practice questions and track their learning progress.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 136 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 136 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Idea / Solution Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 182.5827 116 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (Develop an AI Study Buddy using JavaScript, Node.js, Express.js, MongoDB) Tj T* (and Google Gemini AI to explain topics, organize notes, generate quizzes and) Tj T* (support personalized study.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Novelty / Uniqueness) Tj T* ET
+Q
+Q
+q
+1 0 0 1 182.5827 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Combines AI explanations, study notes, quiz generation, progress tracking and) Tj T* (secure student authentication in one learning assistant.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 70 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 70 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Social Impact / Student Satisfaction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 182.5827 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Provides accessible study support, reduces time spent searching for) Tj T* (explanations, encourages practice and helps students monitor progress.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Business Model \(Revenue Model\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 182.5827 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL -0.100845 Tw (The application can use a free basic model with optional premium features such) Tj T* 0 Tw (as advanced AI study tools, larger storage and personalized learning features.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.51969 14 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Scalability of the Solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 182.5827 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (The system can be expanded for more students, subjects and study content by) Tj T* (scaling the Node.js backend, MongoDB and AI services.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 196 m 467.7165 196 l S
+n 0 0 m 467.7165 0 l S
+n 0 0 m 0 196 l S
+n 467.7165 0 m 467.7165 196 l S
+n 0 178 m 467.7165 178 l S
+n 0 150 m 467.7165 150 l S
+n 0 112 m 467.7165 112 l S
+n 0 84 m 467.7165 84 l S
+n 0 56 m 467.7165 56 l S
+n 0 28 m 467.7165 28 l S
+n 42.51969 0 m 42.51969 196 l S
+n 178.5827 0 m 178.5827 196 l S
+Q
+Q
+Q
+ 
+endstream
+endobj
+
+6 0 obj
+4603
+endobj
+
+%% Original object ID: 1 0
+7 0 obj
+<<
+  /F1 8 0 R
+  /F2 9 0 R
+>>
+endobj
+
+%% Original object ID: 2 0
+8 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Name /F1
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 3 0
+9 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Name /F2
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 10
+0000000000 65535 f 
+0000000052 00000 n 
+0000000154 00000 n 
+0000000477 00000 n 
+0000000586 00000 n 
+0000000914 00000 n 
+0000005572 00000 n 
+0000005620 00000 n 
+0000005693 00000 n 
+0000005838 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 10
+  /ID [<d65f0902a9e8638edbee318a6b67e5b2><b7288ba116a4d42505cf91b5991f73af>]
+>>
+startxref
+5961
+%%EOF

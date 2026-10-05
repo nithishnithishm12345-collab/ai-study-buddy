@@ -1,0 +1,782 @@
+%PDF-1.4
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 5 0
+1 0 obj
+<<
+  /PageMode /UseNone
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 6 0
+2 0 obj
+<<
+  /Author (\(anonymous\))
+  /CreationDate (D:20260929140411+00'00')
+  /Creator (\(unspecified\))
+  /Keywords ()
+  /ModDate (D:20260929140411+00'00')
+  /Producer (ReportLab PDF Library - \(opensource\))
+  /Subject (\(unspecified\))
+  /Title (\(anonymous\))
+  /Trapped /False
+>>
+endobj
+
+%% Original object ID: 7 0
+3 0 obj
+<<
+  /Count 1
+  /Kids [
+    4 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 4 0
+4 0 obj
+<<
+  /Contents 5 0 R
+  /MediaBox [
+    0
+    0
+    595.2756
+    841.8898
+  ]
+  /Parent 3 0 R
+  /Resources <<
+    /Font 7 0 R
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+  >>
+  /Rotate 0
+  /Trans <<
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 8 0
+5 0 obj
+<<
+  /Length 6 0 R
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 774.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 123.6041 0 Td (PROJECT PLANNING PHASE) Tj T* -123.6041 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 746.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 78.27211 0 Td (Product Backlog, Sprint Planning, Stories, Story Points) Tj T* -78.27211 0 Td ET
+Q
+Q
+q
+1 0 0 1 68.0315 672.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 66 90.70866 -66 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm (DATE) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 52 Tm (04/10/2026) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 30 Tm (TEAM ID) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 30 Tm (SWTID-2026-8904) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 8 Tm (PROJECT NAME) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 8 Tm (AI Study Buddy) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 66 m 459.2126 66 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 66 l S
+n 459.2126 0 m 459.2126 66 l S
+n 0 44 m 459.2126 44 l S
+n 0 22 m 459.2126 22 l S
+n 90.70866 0 m 90.70866 66 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 666.2047 cm
+Q
+q
+1 0 0 1 48.51969 648.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (MAXIMUM MARKS: 5 Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 638.2047 cm
+Q
+q
+1 0 0 1 48.51969 613.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (Product Backlog, Sprint Schedule and Estimation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 35.43307 489.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 118 524.4094 -18 re f*
+0 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 4 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.3622 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Functional Requirement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 174.0787 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US No.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 222.2677 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (User Story / Task) Tj T* ET
+Q
+Q
+q
+1 0 0 1 426.3622 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Priority) Tj T* ET
+Q
+Q
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.3622 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (User Registration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 174.0787 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 222.2677 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Create secure student registration and profile.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 426.3622 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.3622 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (User Login) Tj T* ET
+Q
+Q
+q
+1 0 0 1 174.0787 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 222.2677 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Implement secure login using JWT.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 426.3622 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.3622 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Study Materials) Tj T* ET
+Q
+Q
+q
+1 0 0 1 174.0787 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 222.2677 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Upload, organize and search notes/materials.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 426.3622 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.3622 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (AI Study Assistant) Tj T* ET
+Q
+Q
+q
+1 0 0 1 174.0787 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 222.2677 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Use Gemini AI to explain topics and answer study) Tj T* (questions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 426.3622 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.3622 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (Quiz & Progress) Tj T* ET
+Q
+Q
+q
+1 0 0 1 174.0787 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (US-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 222.2677 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Generate quizzes and track study progress/history.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 426.3622 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 471.7165 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 118 m 524.4094 118 l S
+n 0 0 m 524.4094 0 l S
+n 0 0 m 0 118 l S
+n 524.4094 0 m 524.4094 118 l S
+n 0 100 m 524.4094 100 l S
+n 0 82 m 524.4094 82 l S
+n 0 64 m 524.4094 64 l S
+n 0 46 m 524.4094 46 l S
+n 0 18 m 524.4094 18 l S
+n 62.3622 0 m 62.3622 118 l S
+n 170.0787 0 m 170.0787 118 l S
+n 218.2677 0 m 218.2677 118 l S
+n 422.3622 0 m 422.3622 118 l S
+n 467.7165 0 m 467.7165 118 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 481.2047 cm
+Q
+q
+1 0 0 1 48.51969 456.2047 cm
+q
+BT 1 0 0 1 0 3 Tm 17 TL /F2 14 Tf 0 0 0 rg (Project Tracker, Velocity & Burndown) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.35433 360.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 90 504.5669 -18 re f*
+0 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 4 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.3622 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Total Story Points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 151.4016 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Duration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.7638 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 284.6299 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (End) Tj T* ET
+Q
+Q
+q
+1 0 0 1 355.4961 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Completed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 432.0315 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Release) Tj T* ET
+Q
+Q
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.3622 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 151.4016 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2 Days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.7638 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (29/09/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 284.6299 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30/09/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 355.4961 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 432.0315 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30/09/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.3622 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 151.4016 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2 Days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.7638 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (01/10/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 284.6299 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (02/10/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 355.4961 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 432.0315 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (02/10/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.3622 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 151.4016 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2 Days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.7638 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (03/10/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 284.6299 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (04/10/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 355.4961 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 432.0315 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (04/10/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Total) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.3622 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (21) Tj T* ET
+Q
+Q
+q
+1 0 0 1 151.4016 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (6 Days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 213.7638 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (-) Tj T* ET
+Q
+Q
+q
+1 0 0 1 284.6299 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (-) Tj T* ET
+Q
+Q
+q
+1 0 0 1 355.4961 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (21) Tj T* ET
+Q
+Q
+q
+1 0 0 1 432.0315 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (-) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 90 m 504.5669 90 l S
+n 0 0 m 504.5669 0 l S
+n 0 0 m 0 90 l S
+n 504.5669 0 m 504.5669 90 l S
+n 0 72 m 504.5669 72 l S
+n 0 54 m 504.5669 54 l S
+n 0 36 m 504.5669 36 l S
+n 0 18 m 504.5669 18 l S
+n 62.3622 0 m 62.3622 90 l S
+n 147.4016 0 m 147.4016 90 l S
+n 209.7638 0 m 209.7638 90 l S
+n 280.6299 0 m 280.6299 90 l S
+n 351.4961 0 m 351.4961 90 l S
+n 428.0315 0 m 428.0315 90 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 353.2047 cm
+Q
+q
+1 0 0 1 48.51969 334.2047 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Velocity:) Tj /F1 9.5 Tf ( Average velocity = 21 story points / 6 days = 3.5 story points per day.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 302.2047 cm
+q
+BT 1 0 0 1 0 16.5 Tm -0.010071 Tw 13 TL /F2 9.5 Tf 0 0 0 rg (Burndown chart:) Tj /F1 9.5 Tf ( A burndown chart shows the amount of work remaining against time. The team updates it after each) Tj T* 0 Tw (sprint day to monitor progress.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+
+6 0 obj
+9753
+endobj
+
+%% Original object ID: 1 0
+7 0 obj
+<<
+  /F1 8 0 R
+  /F2 9 0 R
+>>
+endobj
+
+%% Original object ID: 2 0
+8 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Name /F1
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 3 0
+9 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Name /F2
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 10
+0000000000 65535 f 
+0000000052 00000 n 
+0000000154 00000 n 
+0000000477 00000 n 
+0000000586 00000 n 
+0000000914 00000 n 
+0000010722 00000 n 
+0000010770 00000 n 
+0000010843 00000 n 
+0000010988 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 10
+  /ID [<63442040c3edc9a761e33a5dae2af713><2a239ff4feb5b3eacc3412215eb3c626>]
+>>
+startxref
+11111
+%%EOF

@@ -1,0 +1,826 @@
+%PDF-1.4
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 5 0
+1 0 obj
+<<
+  /PageMode /UseNone
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 6 0
+2 0 obj
+<<
+  /Author (\(anonymous\))
+  /CreationDate (D:20260929140411+00'00')
+  /Creator (\(unspecified\))
+  /Keywords ()
+  /ModDate (D:20260929140411+00'00')
+  /Producer (ReportLab PDF Library - \(opensource\))
+  /Subject (\(unspecified\))
+  /Title (\(anonymous\))
+  /Trapped /False
+>>
+endobj
+
+%% Original object ID: 7 0
+3 0 obj
+<<
+  /Count 1
+  /Kids [
+    4 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 4 0
+4 0 obj
+<<
+  /Contents 5 0 R
+  /MediaBox [
+    0
+    0
+    595.2756
+    841.8898
+  ]
+  /Parent 3 0 R
+  /Resources <<
+    /Font 7 0 R
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+  >>
+  /Rotate 0
+  /Trans <<
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 8 0
+5 0 obj
+<<
+  /Length 6 0 R
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.51969 774.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 102.0941 0 Td (PROJECT DEVELOPMENT PHASE) Tj T* -102.0941 0 Td ET
+Q
+Q
+q
+1 0 0 1 68.0315 698.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 66 90.70866 -66 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm (DATE) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 52 Tm (04/10/2026) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 30 Tm (TEAM ID) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 30 Tm (SWTID-2026-8904) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 8 Tm (PROJECT NAME) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 96.70866 8 Tm (AI Study Buddy) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 66 m 459.2126 66 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 66 l S
+n 459.2126 0 m 459.2126 66 l S
+n 0 44 m 459.2126 44 l S
+n 0 22 m 459.2126 22 l S
+n 90.70866 0 m 90.70866 66 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 692.2047 cm
+Q
+q
+1 0 0 1 48.51969 674.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (MAXIMUM MARKS: 5 Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 664.2047 cm
+Q
+q
+1 0 0 1 48.51969 639.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (Project Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 581.2047 cm
+q
+BT 1 0 0 1 0 42.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Project Name:) Tj /F1 9.5 Tf ( AI Study Buddy) Tj  T* /F2 9.5 Tf (Project Description:) Tj /F1 9.5 Tf ( An AI-powered study assistant that helps students understand topics, organize study materials,) Tj T* (generate quizzes, and track learning progress. The system uses Google Gemini AI for explanations and study) Tj T* (assistance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 549.2047 cm
+q
+BT 1 0 0 1 0 16.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Project Version:) Tj /F1 9.5 Tf ( 1.0) Tj  T* /F2 9.5 Tf (Testing Period:) Tj /F1 9.5 Tf ( 29/09/2026 to 04/10/2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 524.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (Testing Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60.94488 374.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 144 473.3858 -18 re f*
+0 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 4 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Area) Tj T* ET
+Q
+Q
+q
+1 0 0 1 123.0551 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Testing Scope) Tj T* ET
+Q
+Q
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Authentication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 123.0551 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Student registration, login, JWT validation and protected routes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Study Materials) Tj T* ET
+Q
+Q
+q
+1 0 0 1 123.0551 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Create, store, update, retrieve and search study notes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (AI Assistant) Tj T* ET
+Q
+Q
+q
+1 0 0 1 123.0551 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Topic explanations, question answering and study suggestions using Gemini API.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Quiz) Tj T* ET
+Q
+Q
+q
+1 0 0 1 123.0551 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Generate quiz questions, submit answers and record results.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Progress) Tj T* ET
+Q
+Q
+q
+1 0 0 1 123.0551 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Store and retrieve study history, quiz scores and completed topics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 123.0551 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Verify users, notes, quizzes and progress data in MongoDB.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 123.0551 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Verify frontend and backend API communication.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 144 m 473.3858 144 l S
+n 0 0 m 473.3858 0 l S
+n 0 0 m 0 144 l S
+n 473.3858 0 m 473.3858 144 l S
+n 0 126 m 473.3858 126 l S
+n 0 108 m 473.3858 108 l S
+n 0 90 m 473.3858 90 l S
+n 0 72 m 473.3858 72 l S
+n 0 54 m 473.3858 54 l S
+n 0 36 m 473.3858 36 l S
+n 0 18 m 473.3858 18 l S
+n 119.0551 0 m 119.0551 144 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 366.2047 cm
+Q
+q
+1 0 0 1 48.51969 341.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (Test Cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 32.59843 189.2047 cm
+q
+.827451 .827451 .827451 rg
+n 0 146 530.0787 -18 re f*
+0 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 4 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.18898 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Test Steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293.1339 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Expected Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Status) Tj T* ET
+Q
+Q
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (TC-001) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.18898 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Registration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Enter name, email, password and) Tj T* (register.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293.1339 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Student account created successfully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Pending) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (TC-002) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.18898 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Login) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Enter registered credentials.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293.1339 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Student logs in successfully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Pending) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (TC-003) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.18898 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (AI Explanation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Enter a study topic and submit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293.1339 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Clear AI-generated explanation is displayed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Pending) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (TC-004) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.18898 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Quiz Generation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Request a quiz for a topic.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293.1339 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Relevant quiz questions are generated.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Pending) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (TC-005) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.18898 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Create and retrieve a study note.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293.1339 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Note is saved and displayed correctly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Pending) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (TC-006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.18898 14 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Progress) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8976 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Complete a quiz and open progress) Tj T* (page.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293.1339 14 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Score/history is displayed correctly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 477.3858 14 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Pending) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 146 m 530.0787 146 l S
+n 0 0 m 530.0787 0 l S
+n 0 0 m 0 146 l S
+n 530.0787 0 m 530.0787 146 l S
+n 0 128 m 530.0787 128 l S
+n 0 100 m 530.0787 100 l S
+n 0 82 m 530.0787 82 l S
+n 0 64 m 530.0787 64 l S
+n 0 46 m 530.0787 46 l S
+n 0 28 m 530.0787 28 l S
+n 48.18898 0 m 48.18898 146 l S
+n 138.8976 0 m 138.8976 146 l S
+n 289.1339 0 m 289.1339 146 l S
+n 473.3858 0 m 473.3858 146 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 181.2047 cm
+Q
+q
+1 0 0 1 48.51969 156.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL (Bug Tracking) Tj T* ET
+Q
+Q
+q
+1 0 0 1 21.25984 78.20472 cm
+q
+.827451 .827451 .827451 rg
+n 0 72 552.7559 -18 re f*
+0 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 4 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Bug ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60.69291 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.1181 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Severity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Status) Tj T* ET
+Q
+Q
+q
+1 0 0 1 415.0236 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Feedback) Tj T* ET
+Q
+Q
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 4 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (BG-001) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60.69291 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (AI explanation not generated, if encountered.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.1181 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (To be tested) Tj T* ET
+Q
+Q
+q
+1 0 0 1 415.0236 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Verify Gemini API configuration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (BG-002) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60.69291 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Login failure, if encountered.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.1181 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (To be tested) Tj T* ET
+Q
+Q
+q
+1 0 0 1 415.0236 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Verify JWT and credentials.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (BG-003) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60.69291 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Study note not saved, if encountered.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.1181 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329.9843 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (To be tested) Tj T* ET
+Q
+Q
+q
+1 0 0 1 415.0236 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Verify MongoDB connection.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 72 m 552.7559 72 l S
+n 0 0 m 552.7559 0 l S
+n 0 0 m 0 72 l S
+n 552.7559 0 m 552.7559 72 l S
+n 0 54 m 552.7559 54 l S
+n 0 36 m 552.7559 36 l S
+n 0 18 m 552.7559 18 l S
+n 56.69291 0 m 56.69291 72 l S
+n 255.1181 0 m 255.1181 72 l S
+n 325.9843 0 m 325.9843 72 l S
+n 411.0236 0 m 411.0236 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 70.20472 cm
+Q
+q
+1 0 0 1 48.51969 51.20472 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Sign-off: Tester Name: [Your Name] Date: 04/10/2026 Signature: [Tester's Signature]) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+
+6 0 obj
+11238
+endobj
+
+%% Original object ID: 1 0
+7 0 obj
+<<
+  /F1 8 0 R
+  /F2 9 0 R
+>>
+endobj
+
+%% Original object ID: 2 0
+8 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Name /F1
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 3 0
+9 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Name /F2
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 10
+0000000000 65535 f 
+0000000052 00000 n 
+0000000154 00000 n 
+0000000477 00000 n 
+0000000586 00000 n 
+0000000914 00000 n 
+0000012207 00000 n 
+0000012256 00000 n 
+0000012329 00000 n 
+0000012474 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 10
+  /ID [<e0f99f12e58f321126d6c5a86fa8fec0><5c61beb0184a6e6cd11bb44f60ac3bc3>]
+>>
+startxref
+12597
+%%EOF
